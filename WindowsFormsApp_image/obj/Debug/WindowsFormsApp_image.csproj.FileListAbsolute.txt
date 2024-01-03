@@ -1,0 +1,14 @@
+C:\Alla\C#_proj\WindowsFormsApp_image\bin\Debug\WindowsFormsApp_image.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_image\bin\Debug\WindowsFormsApp_image.exe
+C:\Alla\C#_proj\WindowsFormsApp_image\bin\Debug\WindowsFormsApp_image.pdb
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.exe
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.pdb
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.Resource1.resources
+C:\Alla\C#_proj\WindowsFormsApp_image\bin\Debug\AxInterop.WMPLib.dll
+C:\Alla\C#_proj\WindowsFormsApp_image\obj\Debug\WindowsFormsApp_image.csproj.CopyComplete
